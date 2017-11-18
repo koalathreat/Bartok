@@ -1,8 +1,24 @@
 fileFormatVersion: 2
 guid: a7d7d9d9d58522f4cb96693ace07ad24
+timeCreated: 1510997235
+licenseType: Free
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - deck: {instanceID: 0}
+  - deckXML: {fileID: 4900000, guid: c76312a0fb08948699e1abf935e4a957, type: 3}
+  - layout: {instanceID: 0}
+  - layoutXML: {fileID: 4900000, guid: 61f3f05951a2f4d98b35bddbc7549908, type: 3}
+  - layoutAnchor: {instanceID: 0}
+  - target: {instanceID: 0}
+  - fsRun: {instanceID: 0}
+  - GTGameOver: {fileID: 132528826731428662, guid: 362fc2eb9b17cd24ba531c6a473ca64d,
+      type: 2}
+  - GTRoundResult: {fileID: 132988311732053262, guid: c5d61058572d5c647befd8a0cd2c9396,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
