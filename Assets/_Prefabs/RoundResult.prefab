@@ -26,7 +26,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4281377423495248
 Transform:
   m_ObjectHideFlags: 1
@@ -48,7 +48,9 @@ GUIText:
   m_GameObject: {fileID: 1125465670930502}
   m_Enabled: 1
   serializedVersion: 3
-  m_Text: You won with 500 points.
+  m_Text: 'You got the high score!
+
+    High score: 88'
   m_Anchor: 1
   m_Alignment: 1
   m_PixelOffset: {x: 0, y: -55}
