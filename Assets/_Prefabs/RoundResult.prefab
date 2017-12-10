@@ -50,7 +50,7 @@ GUIText:
   serializedVersion: 3
   m_Text: 'You got the high score!
 
-    High score: 88'
+    High score: 168'
   m_Anchor: 1
   m_Alignment: 1
   m_PixelOffset: {x: 0, y: -55}
